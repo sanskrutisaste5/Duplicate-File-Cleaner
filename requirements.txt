@@ -1,0 +1,5 @@
+
+# Dependencies for Duplicate File Cleaner
+
+# No external libraries required.
+# hashlib and os are built-in Python modules.
